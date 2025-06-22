@@ -2,6 +2,8 @@
 
 This is a full-stack Node.js application that simulates a Discord bot for managing tabletop battle maps. The project is split into a backend API built with Express and MongoDB and a frontend built with React and TailwindCSS.
 
+**Note:** The project now relies on the latest package versions and works best with Node.js 18 or later.
+
 ## Project Structure
 
 - `backend` – Express server, MongoDB models, and RESTful routes
